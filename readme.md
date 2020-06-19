@@ -4,5 +4,6 @@ git init - Create a new git repo
 git status - View the changes to your project code
 git add - Add files to staging area
 git commit - Creates a new commit with files from staging area
+git push - Push your repo to the github server
 git log - View recent commits
 git clone <url> - Clone your repo in your local machine
