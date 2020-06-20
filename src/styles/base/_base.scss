@@ -11,6 +11,10 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: $m-size;
   line-height: 1.6;
+  background: #780FB4;
+  background: -webkit-linear-gradient(top right, #780FB4, #9A5339);
+  background: -moz-linear-gradient(top right, #780FB4, #9A5339);
+  background: linear-gradient(to bottom left, #780FB4, #9A5339);
 }
 
 button {
